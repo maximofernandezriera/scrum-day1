@@ -1,10 +1,10 @@
 # Metodología Scrum
 
 ## Equipo Scrum
-Incluye el Product Owner (sabe qué se necesita), el Scrum Master (ayuda al equipo) y el Equipo de Desarrollo (hace el trabajo).
+Está formamador por: el Product Owner (sabe qué se necesita), el Scrum Master (coordina-ayuda al equipo) y el Equipo de Desarrollo (hace el trabajo).
 
 ## Product Backlog
-Lista de todo lo que necesita la app (funciones, mejoras, correcciones).
+Lista de todo lo que necesita el proyecto (funciones, mejoras, correcciones).
 
 ## Sprint Planning
 El equipo elige tareas del Product Backlog para trabajar en el próximo Sprint típicamente de 2 a 4 semanas.
